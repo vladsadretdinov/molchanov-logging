@@ -1,0 +1,5 @@
+2021-02-06 17:35:50,998 - DEBUG - app_logger - 06 Создание обработчика:main:10 - Enter in to the main()
+2021-02-06 17:36:28,485 - DEBUG - app_logger - 06 Создание обработчика:new_func:11 - Enter in to the new_func()
+2021-02-06 17:36:28,487 - DEBUG - app_logger - 06 Создание обработчика:main:15 - Enter in to the main()
+2021-02-06 17:36:31,011 - DEBUG - app_logger - 06 Создание обработчика:new_func:11 - Enter in to the new_func()
+2021-02-06 17:36:31,012 - DEBUG - app_logger - 06 Создание обработчика:main:15 - Enter in to the main()
